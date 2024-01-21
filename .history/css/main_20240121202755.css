@@ -401,15 +401,6 @@ Featured Tours
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.tour-title p , .tour-title h4{
-  margin-bottom: 0.75rem;
-  line-height: 1.25rem;
-
-}
-.tour-title p {
-  color: var(--clr-grey-7);
-  text-transform: capitalize;
-}
 /*
 =============== 
 Deals
