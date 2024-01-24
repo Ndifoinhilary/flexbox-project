@@ -581,9 +581,3 @@ Footer
 .footer-icon:hover{
   color: var(--clr-white);
 }
-
-.copyright{
-  text-transform: capitalize;
-  letter-spacing: var(--spacing);
-  color: var(--clr-white);
-}

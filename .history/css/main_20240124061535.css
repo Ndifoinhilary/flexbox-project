@@ -552,7 +552,7 @@ Footer
   padding:  2rem;
 }
 
-.footer-links, .footer-icons{
+.footer-link, .footer-icon{
   display: flex;
   justify-content:center;
   margin-bottom: 1.5rem;
@@ -579,11 +579,5 @@ Footer
   transition: var(--transition);
 }
 .footer-icon:hover{
-  color: var(--clr-white);
-}
-
-.copyright{
-  text-transform: capitalize;
-  letter-spacing: var(--spacing);
   color: var(--clr-white);
 }
